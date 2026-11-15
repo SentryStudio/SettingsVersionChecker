@@ -1,2 +1,3 @@
 # SettingsVersionChecker
-Simple tool to monitor, verify, and check current version status for Sentry Settings plugin.
+
+Remote release endpoint for SentrySettings. Houses the latest version tag (`version`) queried by the plugin on startup to notify administrators of available updates.
